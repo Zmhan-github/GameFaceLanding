@@ -1,7 +1,7 @@
 # gamefaceLanding   
-View Landing Page 
+
 ```
-https://zmhan-github.github.io/gamefaceLanding/index.html
+[View Landing Page](https://zmhan-github.github.io/gamefaceLanding/index.html)
 ```
 
 
